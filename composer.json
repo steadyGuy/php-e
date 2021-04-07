@@ -1,0 +1,13 @@
+{
+    "name": "mvc/mvc",
+    "authors": [
+        {
+            "name": "Yuriy Soproniuk",
+            "email": "sopronukCC@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.8",
+        "firebase/php-jwt": "^5.2"
+    }
+}
