@@ -2,7 +2,7 @@
 
 class DB
 {
-  const URL = "mongodb+srv://niukJs:privet_medved@cluster0.tyxux.mongodb.net/medequip_db?retryWrites=true&w=majority";
+  const URL = "";
   public $conn;
 
   public static function getConnection()
